@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pushpaddeepak\\OneDrive - Entecnia Consulting S.L\\Documents\\GitHub\\testProject\\Custom Controls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D83139-2436-4F60-A71F-67424C2FDFF7}|Custom Controls\\Custom Controls.csproj|c:\\users\\pushpaddeepak\\onedrive - entecnia consulting s.l\\documents\\github\\testproject\\custom controls\\custom controls\\view\\customcontrols\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32D83139-2436-4F60-A71F-67424C2FDFF7}|Custom Controls\\Custom Controls.csproj|solutionrelative:custom controls\\view\\customcontrols\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuBar.xaml",
+              "DocumentMoniker": "C:\\Users\\pushpaddeepak\\OneDrive - Entecnia Consulting S.L\\Documents\\GitHub\\testProject\\Custom Controls\\Custom Controls\\View\\customControls\\MenuBar.xaml",
+              "RelativeDocumentMoniker": "Custom Controls\\View\\customControls\\MenuBar.xaml",
+              "ToolTip": "C:\\Users\\pushpaddeepak\\OneDrive - Entecnia Consulting S.L\\Documents\\GitHub\\testProject\\Custom Controls\\Custom Controls\\View\\customControls\\MenuBar.xaml",
+              "RelativeToolTip": "Custom Controls\\View\\customControls\\MenuBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-09T12:19:34.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
