@@ -1,0 +1,24 @@
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\bin\Debug\Custom Controls.exe.config
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\bin\Debug\Custom Controls.exe
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\bin\Debug\Custom Controls.pdb
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls.csproj.AssemblyReference.cache
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\MainWindow.g.cs
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\View\customControls\MenuBar.g.cs
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\View\customControls\TxtBoxes.g.cs
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\App.g.cs
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls_MarkupCompile.cache
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls_MarkupCompile.lref
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\MainWindow.baml
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\View\customControls\MenuBar.baml
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\View\customControls\TxtBoxes.baml
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls.g.resources
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom_Controls.Properties.Resources.resources
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls.csproj.GenerateResource.cache
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls.csproj.CoreCompileInputs.cache
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls.exe
+C:\Users\dastirtharaj\source\repos\Custom Controls\Custom Controls\obj\Debug\Custom Controls.pdb
+J:\TEMPORAL IND\Tirtharaj\C#Learn Udemy\Custom Controls\Custom Controls\bin\Debug\Custom Controls.exe
+J:\TEMPORAL IND\Tirtharaj\C#Learn Udemy\Custom Controls\Custom Controls\bin\Debug\OxyPlot.dll
+J:\TEMPORAL IND\Tirtharaj\C#Learn Udemy\Custom Controls\Custom Controls\bin\Debug\OxyPlot.Wpf.dll
+J:\TEMPORAL IND\Tirtharaj\C#Learn Udemy\Custom Controls\Custom Controls\bin\Debug\OxyPlot.Wpf.Shared.dll
